@@ -4,7 +4,7 @@ pipeline () {
         stage ('webhook') {
             steps {
                 script {
-                    echo "tes working fine"
+                    echo "working fine"
                 }
             }
         }
